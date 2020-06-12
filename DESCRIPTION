@@ -4,7 +4,9 @@ Title: Cox LME landmarking
 Version: 0.0.0.9000
 Authors@R: person("Nathan","Constantine-Cooke", role = c("cre","aut"),
         email="nathan.constantine-cooke@ed.ac.uk")
-Description: 
+Description: Landmark models predicting risk using Cox proportional hazards and
+    linear mixed-effects. Optimised for electronic health records, Based on
+    Paige et al. (2018).
 License: GPL-3
 Depends: R (>= 4.0.0)
 Imports:

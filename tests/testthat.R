@@ -1,4 +1,4 @@
 library(testthat)
-library(clmnel)
+library(clmel)
 
-test_check("clmnel")
+test_check("clmel")
