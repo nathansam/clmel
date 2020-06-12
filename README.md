@@ -6,6 +6,7 @@
 ![Life Cycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
 [![CRAN status](https://www.r-pkg.org/badges/version/clmnel)](https://CRAN.R-project.org/package=clmel)
 [![License: GPL-3](https://img.shields.io/badge/License-GPL3-green.svg)](https://opensource.org/licenses/GPL-3.0)
+[![Codecov test coverage](https://codecov.io/gh/nathansam/clmel/branch/master/graph/badge.svg)](https://codecov.io/gh/nathansam/clmel?branch=master)
 <!-- badges: end -->
 
 ## Overview

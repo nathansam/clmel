@@ -15,7 +15,8 @@ Imports:
 Suggests: 
     testthat,
     knitr,
-    rmarkdown
+    rmarkdown,
+    covr
 LazyData: true
 URL: https://github.com/nathansam/clmel
 BugReports: https://github.com/nathansam/clmel/issues
