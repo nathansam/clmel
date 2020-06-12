@@ -1,0 +1,23 @@
+Package: clmel
+Type: Package
+Title: Cox LME landmarking
+Version: 0.0.0.9000
+Authors@R: person("Nathan","Constantine-Cooke", role = c("cre","aut"),
+        email="nathan.constantine-cooke@ed.ac.uk")
+Description: 
+License: GPL-3
+Depends: R (>= 4.0.0)
+Imports:
+    survival,
+    nlme
+Suggests: 
+    testthat,
+    knitr,
+    rmarkdown
+LazyData: true
+URL: https://github.com/nathansam/clmel
+BugReports: https://github.com/nathansam/clmel/issues
+Roxygen: list(markdown = TRUE)
+Encoding: UTF-8
+VignetteBuilder: knitr
+RoxygenNote: 7.1.0
