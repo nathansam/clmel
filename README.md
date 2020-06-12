@@ -12,3 +12,12 @@
 
 Landmark models predicting risk using Cox proportional hazards and linear
 mixed-effects. Optimised for electronic health records, Based on  [Paige et al. (2018)](10.1093/aje/kwy018).
+
+## Installation instructions
+
+Running the below code will install the package.
+
+``` R
+if (!require("devtools")) install.packages("devtools")
+devtools::install_github("nathansam/clmel")
+```
