@@ -11,7 +11,7 @@ License: GPL-3
 Depends: R (>= 4.0.0)
 Imports:
     survival,
-    nlme
+    lme4
 Suggests: 
     testthat,
     knitr,
