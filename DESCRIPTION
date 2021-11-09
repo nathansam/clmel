@@ -11,7 +11,7 @@ License: GPL-3
 Depends: R (>= 4.0.0)
 Imports:
     survival,
-    lme4
+    nlme
 Suggests: 
     testthat,
     knitr,
@@ -23,4 +23,4 @@ BugReports: https://github.com/nathansam/clmel/issues
 Roxygen: list(markdown = TRUE)
 Encoding: UTF-8
 VignetteBuilder: knitr
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
